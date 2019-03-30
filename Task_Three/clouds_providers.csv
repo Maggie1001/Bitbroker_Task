@@ -1,0 +1,10 @@
+Cloud,GPU,GPUs,GPU RAM ,Cost Per Hour Per GPU,Preemptible GPU Price/3-y RI,Wall Time,Cost to Train,Use Discount Cost to Train
+Google Cloud Compute Engine,GCP P100,1,16,1.46,0.43,5.32,0.129453333,0.038126667
+Google Cloud Compute Engine,GCP K80,1,12,0.45,0.135,18.13,0.135975,0.0407925
+Google Cloud Compute Engine,GCP V100,1,16,2.48,0.74,3.83,0.158306667,0.047236667
+Google Cloud Compute Engine,GCP P4,1,8,0.6,0.216,10.28,0.1028,0.037008
+AWS EC2,AWS K80 (p2.xlarge),1,,0.9,0.425,20.9,0.3135,0.148041667
+AWS EC2,AWS K80 x 8 (p2.8xlarge),8,,7.2,3.4,16.12,1.9344,0.913466667
+AWS EC2,AWS V100 (p3.2xlarge),1,16,3.06,1.05,3.85,0.19635,0.067375
+AWS EC2,AWS V100 x 4 (p3.8xlarge),1,64,12.24,4.19,2.97,0.60588,0.207405
+Paperspace,Pasp Quadro P4000,8,30,0.51,,8.3,0.07055,0

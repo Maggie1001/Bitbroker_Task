@@ -1,0 +1,16 @@
+Cloud Service,NVIDIA GPU,CPUs,GPU RAM ,CPU RAM ,Cost Per Hour,Wall Time,Cost to Train
+Google Colab,K80,1,12,13,0.00,31.17,0.000
+Google Cloud Compute Engine,P100,6,16,20,0.50,5.32,0.044
+Google Cloud Compute Engine,K80,6,12,17,0.20,18.13,0.060
+Google Cloud Compute Engine,V100,8,16,20,0.82,3.83,0.052
+Google Cloud Compute Engine,P4,4,8,26,0.33,10.28,0.057
+Google Cloud Compute Engine,V100 x 2,8,32,30,1.57,3.63,0.095
+Google Cloud Compute Engine,V100 x 4  ,8,64,30,3.05,3.38,0.172
+AWS EC2,K80 (p2.xlarge),4,12,61,0.28,20.90,0.098
+AWS EC2,K80 x 8 (p2.8xlarge),32,96,488,2.35,16.12,0.631
+AWS EC2,V100 (p3.2xlarge),8,16,61,1.05,3.85,0.067
+AWS EC2,V100 x 4 (p3.8xlarge),64,128,488,4.05,2.97,0.200
+vast.ai,GTX 1070 Ti,4,8.1,16,0.06,7.23,0.008
+Paperspace,Quadro M4000,8,8,30,0.51,8.30,0.071
+Kaggle,K80,2,12,6,0.00,,0.000
+Amazon Sagemaker,K80,4,12,61,1.26,16.12,0.338
